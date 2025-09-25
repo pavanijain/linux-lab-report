@@ -1,0 +1,48 @@
+------ Wednesday 24 September 2025 06:52:30 PM IST ------
+    PID COMMAND         %CPU
+   2645 gnome-shell     10.3
+   4139 firefox          9.1
+   5261 Isolated Web Co  1.6
+   5840 Isolated Web Co  1.4
+   5268 Isolated Web Co  1.3
+
+------ Wednesday 24 September 2025 06:52:40 PM IST ------
+    PID COMMAND         %CPU
+   2645 gnome-shell     10.3
+   4139 firefox          9.1
+   5261 Isolated Web Co  1.6
+   5840 Isolated Web Co  1.4
+   5268 Isolated Web Co  1.3
+
+------ Wednesday 24 September 2025 06:52:50 PM IST ------
+    PID COMMAND         %CPU
+   2645 gnome-shell     10.2
+   4139 firefox          9.1
+   5261 Isolated Web Co  1.6
+   5840 Isolated Web Co  1.5
+   5268 Isolated Web Co  1.3
+
+------ Wednesday 24 September 2025 06:53:00 PM IST ------
+    PID COMMAND         %CPU
+   2645 gnome-shell     10.3
+   4139 firefox          9.1
+   5261 Isolated Web Co  1.6
+   5840 Isolated Web Co  1.6
+   5268 Isolated Web Co  1.3
+
+------ Wednesday 24 September 2025 06:53:10 PM IST ------
+    PID COMMAND         %CPU
+   2645 gnome-shell     10.3
+   4139 firefox          9.1
+   5840 Isolated Web Co  1.8
+   5261 Isolated Web Co  1.6
+   5268 Isolated Web Co  1.3
+
+------ Wednesday 24 September 2025 06:53:20 PM IST ------
+    PID COMMAND         %CPU
+   2645 gnome-shell     10.3
+   4139 firefox          9.1
+   5840 Isolated Web Co  2.1
+   5261 Isolated Web Co  1.6
+   5268 Isolated Web Co  1.3
+
